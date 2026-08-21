@@ -1,0 +1,4 @@
+﻿Modules à installer avec pip install :
+- pyvisa (version : 1.14.1)
+- tksheet (7.5.12)
+- pandas (2.0.3)
